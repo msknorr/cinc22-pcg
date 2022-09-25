@@ -1,0 +1,15 @@
+numpy==1.20.0
+scipy==1.7.3
+scikit-learn==1.0.2
+joblib==1.1.0
+soundfile
+pandas
+opencv-python
+albumentations==0.5.1
+librosa==0.9.1
+timm==0.3.2
+numba
+torch
+torchvision
+seaborn
+gdown
